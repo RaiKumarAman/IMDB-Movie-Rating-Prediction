@@ -16,7 +16,7 @@ This repository contains a machine learning model for predicting movie ratings b
 
 ### Installation:
 1. Clone this repository:
-   git clone https://github.com/RaiKumarAman/Movie_Rating_Prediction.ipynb
+   git clone https://github.com/username/Movie_Rating_Prediction.ipynb
   
 
 2. Install the required dependencies:
